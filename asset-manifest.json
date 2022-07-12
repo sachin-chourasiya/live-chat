@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sachin-chourasiya/live-chat.git/static/css/main.022e95f2.css",
+    "main.js": "/sachin-chourasiya/live-chat.git/static/js/main.3b29b86f.js",
+    "static/js/787.788d3bf7.chunk.js": "/sachin-chourasiya/live-chat.git/static/js/787.788d3bf7.chunk.js",
+    "static/media/logo.png": "/sachin-chourasiya/live-chat.git/static/media/logo.5e90b2873b1baaa4d090.png",
+    "index.html": "/sachin-chourasiya/live-chat.git/index.html",
+    "main.022e95f2.css.map": "/sachin-chourasiya/live-chat.git/static/css/main.022e95f2.css.map",
+    "main.3b29b86f.js.map": "/sachin-chourasiya/live-chat.git/static/js/main.3b29b86f.js.map",
+    "787.788d3bf7.chunk.js.map": "/sachin-chourasiya/live-chat.git/static/js/787.788d3bf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.022e95f2.css",
+    "static/js/main.3b29b86f.js"
+  ]
+}
